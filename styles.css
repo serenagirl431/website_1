@@ -1,0 +1,18 @@
+body{
+    background-color: darkcyan;
+}h1 {
+    font-family: 'Oswald', sans-serif;  
+}
+header {
+    display: flex;
+    justify-content: center;
+    font-size: 30px;
+    background-color: darkgray;
+}
+nav {
+    display: flex;
+  justify-content: space-between;
+  font-variant-caps: all-small-caps;
+  font-size: 24px;
+  background-color: darkgreen;
+}
